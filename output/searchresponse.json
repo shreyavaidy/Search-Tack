@@ -1,0 +1,1022 @@
+{
+    "context": {
+        "title": "Search Task"
+    }, 
+    "items": [
+        {
+            "cacheId": "4WaXaRElGBoJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/.../hehijbfgiekmjfkfjpbkbammjbdenadd?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/.../hehijbfgiekmjfkfjpbkbammjbdenadd?...", 
+            "htmlSnippet": "Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, <br>\nSharepoint, and more. A &quot;Top 10&quot; <b>extension</b> since 2009!", 
+            "htmlTitle": "IE Tab - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en-GB", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "12376", 
+                        "ratingvalue": "4.347850678733032"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/_UAdMqAA6PRbpL7ozSL3dH34l3uNYzOlX8uJ7lsz2TAfRzHNI9FHYuCNHhTfaXhmnnc1mNmHbg=s128-h128-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "102", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1KEhq548Q3q78hBjkymz4lp0Ijp9oyMQfvVvRBL5XGJ7YAeGnwrDm", 
+                        "width": "102"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en_GB", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "3168186", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en_GB", 
+                        "pagerank_devurl": "47517", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "3273130", 
+                        "user_count": "3273130", 
+                        "wilson_star_rating": "4.326659214377104", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more. A \"Top 10\" extension since 2009!", 
+                        "og:image": "https://lh3.googleusercontent.com/_UAdMqAA6PRbpL7ozSL3dH34l3uNYzOlX8uJ7lsz2TAfRzHNI9FHYuCNHhTfaXhmnnc1mNmHbg=s128-h128-e365", 
+                        "og:title": "IE Tab", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more. A \"Top 10\" extension since 2009!", 
+                        "image": "https://lh3.googleusercontent.com/_UAdMqAA6PRbpL7ozSL3dH34l3uNYzOlX8uJ7lsz2TAfRzHNI9FHYuCNHhTfaXhmnnc1mNmHbg=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:3,168,186", 
+                        "name": "IE Tab", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd", 
+                        "version": "9.3.15.1"
+                    }
+                ]
+            }, 
+            "snippet": "Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, \nSharepoint, and more. A \"Top 10\" extension since 2009!", 
+            "title": "IE Tab - Chrome Web Store"
+        }, 
+        {
+            "cacheId": "IRl0BwRsHicJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/...extension/emafblcdglliigbabbcjbmeabppnecgj? ...", 
+            "htmlFormattedUrl": "https://chrome.google.com/...<b>extension</b>/emafblcdglliigbabbcjbmeabppnecgj? ...", 
+            "htmlSnippet": "The mon.ki People <b>Extension</b> brings your entire address book to every web page.", 
+            "htmlTitle": "mon.ki People <b>Extension</b> - Chrome \u0d35\u0d46\u0d2c\u0d4d \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d30\u0d4d\u200d", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/monki-people-extension/emafblcdglliigbabbcjbmeabppnecgj?hl=ml", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "26", 
+                        "ratingvalue": "4.038461538461538"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh4.googleusercontent.com/piWVB_zr9UExi0ACVa8S_DMg3xQhy9YSrWmDWNxAu3SyU3jaV-MDuztWNCyyAm4vXzK2BgRDbg=s128-h128-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "102", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoQc99GmAeV8WyQKx2AHKHYp9MdXj0fMLbkXdCgShCdu1yrmDHqIgULQ", 
+                        "width": "102"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "category": "1_communication", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "ml", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "8284", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "The mon.ki People Extension brings your entire address book to every web page.", 
+                        "og:image": "https://lh4.googleusercontent.com/piWVB_zr9UExi0ACVa8S_DMg3xQhy9YSrWmDWNxAu3SyU3jaV-MDuztWNCyyAm4vXzK2BgRDbg=s128-h128-e365", 
+                        "og:title": "mon.ki People Extension", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/monki-people-extension/emafblcdglliigbabbcjbmeabppnecgj", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "The mon.ki People Extension brings your entire address book to every web page.", 
+                        "image": "https://lh4.googleusercontent.com/piWVB_zr9UExi0ACVa8S_DMg3xQhy9YSrWmDWNxAu3SyU3jaV-MDuztWNCyyAm4vXzK2BgRDbg=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:8,284", 
+                        "name": "mon.ki People Extension", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/monki-people-extension/emafblcdglliigbabbcjbmeabppnecgj", 
+                        "version": "6.1308.11.1"
+                    }
+                ]
+            }, 
+            "snippet": "The mon.ki People Extension brings your entire address book to every web page.", 
+            "title": "mon.ki People Extension - Chrome \u0d35\u0d46\u0d2c\u0d4d \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d30\u0d4d\u200d"
+        }, 
+        {
+            "cacheId": "ornapK15GPMJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/.../clihldpfnfandacppigjpkmkaaemlfie?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/.../clihldpfnfandacppigjpkmkaaemlfie?...", 
+            "htmlSnippet": "This is the official Amazon Associates <b>extension</b> for Chrome.", 
+            "htmlTitle": "Amazon Publisher Studio <b>Extension</b> Beta - Chrome \u0993\u09af\u09bc\u09c7\u09ac \u09a6\u09cb\u0995\u09be\u09a8", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/amazon-publisher-studio-e/clihldpfnfandacppigjpkmkaaemlfie?hl=bn", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "21", 
+                        "ratingvalue": "4.714285714285714"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh5.googleusercontent.com/A0DomCpcWm8I4Ilk5pUOEQ9-lgEf_yw58WOeSWQgnyAF92gBkbBnJDW1gw0qRk7FcaEMiTYh=s128-h128-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "102", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsI3jixjyOLw3LmMXivBJP2d74p-8WVN47SM9K986WDZTQ9WpK_VNhA", 
+                        "width": "102"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "category": "10_blogging", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "bn", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "true", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "8980", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "This is the official Amazon Associates extension for Chrome", 
+                        "og:image": "https://lh5.googleusercontent.com/A0DomCpcWm8I4Ilk5pUOEQ9-lgEf_yw58WOeSWQgnyAF92gBkbBnJDW1gw0qRk7FcaEMiTYh=s128-h128-e365", 
+                        "og:title": "Amazon Publisher Studio Extension Beta", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/amazon-publisher-studio-e/clihldpfnfandacppigjpkmkaaemlfie", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "This is the official Amazon Associates extension for Chrome", 
+                        "image": "https://lh5.googleusercontent.com/A0DomCpcWm8I4Ilk5pUOEQ9-lgEf_yw58WOeSWQgnyAF92gBkbBnJDW1gw0qRk7FcaEMiTYh=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:8,980", 
+                        "name": "Amazon Publisher Studio Extension Beta", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/amazon-publisher-studio-e/clihldpfnfandacppigjpkmkaaemlfie", 
+                        "version": "0.700"
+                    }
+                ]
+            }, 
+            "snippet": "This is the official Amazon Associates extension for Chrome.", 
+            "title": "Amazon Publisher Studio Extension Beta - Chrome \u0993\u09af\u09bc\u09c7\u09ac \u09a6\u09cb\u0995\u09be\u09a8"
+        }, 
+        {
+            "cacheId": "PNMppaGV6GYJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/...extension/ mbjppiaofeocomlcflnmkibpkmebampm?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/...<b>extension</b>/ mbjppiaofeocomlcflnmkibpkmebampm?...", 
+            "htmlSnippet": "Be kept up to date on the latest CavemanFilms videos! Something any true <br>\nDweller has to have!", 
+            "htmlTitle": "Dweller Channel <b>Extension</b> - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/dweller-channel-extension/mbjppiaofeocomlcflnmkibpkmebampm?hl=fr", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "8", 
+                        "ratingvalue": "5"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh5.googleusercontent.com/PiiLhf0IihKbjwNr0oMATWYKgiGFMeG0T9hjHWfLevdqiHyyVmX1DMpI_gjwffRVgi8HdVzA=s128-h128-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "102", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4R-XR4nhBCpT6VTbIzcbmikyrG3ZDM9oIBzy9k3KNb1O26wsFuR3W", 
+                        "width": "102"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "14_fun", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "fr", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "true", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "181", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "14_fun", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "fr", 
+                        "pagerank_devurl": "37037", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "true", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "133", 
+                        "user_count": "133", 
+                        "wilson_star_rating": "3.711289980936242", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "Be kept up to date on the latest CavemanFilms videos! Something any true Dweller has to have!", 
+                        "og:image": "https://lh5.googleusercontent.com/PiiLhf0IihKbjwNr0oMATWYKgiGFMeG0T9hjHWfLevdqiHyyVmX1DMpI_gjwffRVgi8HdVzA=s128-h128-e365", 
+                        "og:title": "Dweller Channel Extension", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/dweller-channel-extension/mbjppiaofeocomlcflnmkibpkmebampm", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "Be kept up to date on the latest CavemanFilms videos! Something any true Dweller has to have!", 
+                        "image": "https://lh5.googleusercontent.com/PiiLhf0IihKbjwNr0oMATWYKgiGFMeG0T9hjHWfLevdqiHyyVmX1DMpI_gjwffRVgi8HdVzA=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:181", 
+                        "name": "Dweller Channel Extension", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/dweller-channel-extension/mbjppiaofeocomlcflnmkibpkmebampm", 
+                        "version": "1.0.3"
+                    }
+                ]
+            }, 
+            "snippet": "Be kept up to date on the latest CavemanFilms videos! Something any true \nDweller has to have!", 
+            "title": "Dweller Channel Extension - Chrome Web Store"
+        }, 
+        {
+            "cacheId": "mNjRXr1VMHcJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/...extension/dibbaleomhfcadchelfbipdnhhngcmhd", 
+            "htmlFormattedUrl": "https://chrome.google.com/...<b>extension</b>/dibbaleomhfcadchelfbipdnhhngcmhd", 
+            "htmlSnippet": "Dec 22, 2014 <b>...</b> This <b>extension</b> acts as a Form fill and password manager.", 
+            "htmlTitle": "Sign On Express <b>Extension</b> - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/sign-on-express-extension/dibbaleomhfcadchelfbipdnhhngcmhd", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "0", 
+                        "ratingvalue": "0"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/V7sUxlwpvkaTi6RTIDtM4p-YEqPfu05urYyTLuZ0dR1Hhv_a3hXjUfszhdaU1vLNKWng7M1P0Q=s128-h128-e365"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "1", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "pagerank_devurl": "0", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "1", 
+                        "user_count": "1", 
+                        "wilson_star_rating": "1.0", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "This extension acts as a Form fill and password manager.", 
+                        "og:image": "https://lh3.googleusercontent.com/V7sUxlwpvkaTi6RTIDtM4p-YEqPfu05urYyTLuZ0dR1Hhv_a3hXjUfszhdaU1vLNKWng7M1P0Q=s128-h128-e365", 
+                        "og:title": "Sign On Express Extension", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/sign-on-express-extension/dibbaleomhfcadchelfbipdnhhngcmhd", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "This extension acts as a Form fill and password manager.", 
+                        "image": "https://lh3.googleusercontent.com/V7sUxlwpvkaTi6RTIDtM4p-YEqPfu05urYyTLuZ0dR1Hhv_a3hXjUfszhdaU1vLNKWng7M1P0Q=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:1", 
+                        "name": "Sign On Express Extension", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/sign-on-express-extension/dibbaleomhfcadchelfbipdnhhngcmhd", 
+                        "version": "3.5.3"
+                    }
+                ]
+            }, 
+            "snippet": "Dec 22, 2014 ... This extension acts as a Form fill and password manager.", 
+            "title": "Sign On Express Extension - Chrome Web Store"
+        }, 
+        {
+            "cacheId": "dUc0IISAB5cJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/...extension.../ pmjklbgelmhbokafjjhgkeiaafhjdmhf", 
+            "htmlFormattedUrl": "https://chrome.google.com/...<b>extension</b>.../ pmjklbgelmhbokafjjhgkeiaafhjdmhf", 
+            "htmlSnippet": "Test <b>Extension</b> Original. offered by caoni. (0). Overview. The developer has not <br>\nuploaded any screenshots. <b>Extension</b> for testing purposes <b>Extension</b> for <b>...</b>", 
+            "htmlTitle": "Test <b>Extension</b> Original - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/test-extension-original/pmjklbgelmhbokafjjhgkeiaafhjdmhf", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "0", 
+                        "ratingvalue": "0"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/GcY7kq4kSErWyQYR6BfQqJSFUS1kGA_YIYltgFC_6w_LnMU91CiXVtlwCA549M83TKpvZXrU=s128-h128-e365"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "28_photos", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "0", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "28_photos", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "pagerank_devurl": "0", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "0", 
+                        "user_count": "0", 
+                        "wilson_star_rating": "1.0", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "Extension for testing purposes Extension for testing purposes", 
+                        "og:image": "https://lh3.googleusercontent.com/GcY7kq4kSErWyQYR6BfQqJSFUS1kGA_YIYltgFC_6w_LnMU91CiXVtlwCA549M83TKpvZXrU=s128-h128-e365", 
+                        "og:title": "Test Extension Original", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/test-extension-original/pmjklbgelmhbokafjjhgkeiaafhjdmhf", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "Extension for testing purposes Extension for testing purposes", 
+                        "image": "https://lh3.googleusercontent.com/GcY7kq4kSErWyQYR6BfQqJSFUS1kGA_YIYltgFC_6w_LnMU91CiXVtlwCA549M83TKpvZXrU=s128-h128-e365", 
+                        "name": "Test Extension Original", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/test-extension-original/pmjklbgelmhbokafjjhgkeiaafhjdmhf", 
+                        "version": "Extension Original 0.5"
+                    }
+                ]
+            }, 
+            "snippet": "Test Extension Original. offered by caoni. (0). Overview. The developer has not \nuploaded any screenshots. Extension for testing purposes Extension for ...", 
+            "title": "Test Extension Original - Chrome Web Store"
+        }, 
+        {
+            "cacheId": "H46o0VKQ46YJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/.../pkbdliadhfopgfdhbldifaakplenbpnd?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/.../pkbdliadhfopgfdhbldifaakplenbpnd?...", 
+            "htmlSnippet": "Aug 3, 2014 <b>...</b> UK extended keyboard (backquote acting as a dead key for grave accent)", 
+            "htmlTitle": "UK extended - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/uk-extended/pkbdliadhfopgfdhbldifaakplenbpnd?hl=en-GB", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "14", 
+                        "ratingvalue": "3.142857142857143"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/msQ8mmFS1fyRtYyRB3573T1nUTldrLMlVI7QHGCFaujsFmBxsqzaNG5U2dO59CrwXlt77HhI=s640-h400-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "177", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjwyzHa2RRp5aw3B9n_XPmkLwxogwXdqC0Sxfjhc03Mg_gv2Dgg5WbqwW", 
+                        "width": "284"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "true", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en_GB", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "757", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "true", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en_GB", 
+                        "pagerank_devurl": "0", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "766", 
+                        "user_count": "766", 
+                        "wilson_star_rating": "2.3154854370473457", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "UK extended keyboard (backquote acting as a dead key for grave accent)", 
+                        "og:image": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png", 
+                        "og:title": "UK extended", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/uk-extended/pkbdliadhfopgfdhbldifaakplenbpnd", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "UK extended keyboard (backquote acting as a dead key for grave accent)", 
+                        "image": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png", 
+                        "interactioncount": "UserDownloads:757", 
+                        "name": "UK extended", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/uk-extended/pkbdliadhfopgfdhbldifaakplenbpnd", 
+                        "version": "1.1"
+                    }
+                ]
+            }, 
+            "snippet": "Aug 3, 2014 ... UK extended keyboard (backquote acting as a dead key for grave accent)", 
+            "title": "UK extended - Chrome Web Store"
+        }, 
+        {
+            "cacheId": "TNWHSluM5dwJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/...extension/bmglamglljemblpfegpfaechekakgbhg ?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/...<b>extension</b>/bmglamglljemblpfegpfaechekakgbhg ?...", 
+            "htmlSnippet": "Forumlarda konunun ilgili oldu\u011fu anime bilgisini ve listenizdeki durumunu <br>\ng\u00f6sterir. (\u00d6nizleme versiyonu.)", 
+            "htmlTitle": "Anime Takvimi <b>Extension</b>", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/anime-takvimi-extension/bmglamglljemblpfegpfaechekakgbhg?hl=tr", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "10", 
+                        "ratingvalue": "4.9"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh6.googleusercontent.com/6TLbl6GJaZSQb_1Pqjft-PZEPpPI_RMLYxDqq77Pw6I3aT064XD5nyenei9SjWHvsxKHmHKjSQ=s128-h128-e365"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "102", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLLAx9mXO-kBD8hq2OnVLHvkXGbzP64S-QlVRRJr1R1lT2lTltf5nw", 
+                        "width": "102"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "14_fun", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "tr", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "true", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "123", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "14_fun", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "tr", 
+                        "pagerank_devurl": "41242", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "true", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "120", 
+                        "user_count": "120", 
+                        "wilson_star_rating": "3.8095079461146963", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "Forumlarda konunun ilgili oldu\u011fu anime bilgisini ve listenizdeki durumunu g\u00f6sterir. (\u00d6nizleme versiyonu.)", 
+                        "og:image": "https://lh6.googleusercontent.com/6TLbl6GJaZSQb_1Pqjft-PZEPpPI_RMLYxDqq77Pw6I3aT064XD5nyenei9SjWHvsxKHmHKjSQ=s128-h128-e365", 
+                        "og:title": "Anime Takvimi Extension", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/anime-takvimi-extension/bmglamglljemblpfegpfaechekakgbhg", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "Forumlarda konunun ilgili oldu\u011fu anime bilgisini ve listenizdeki durumunu g\u00f6sterir. (\u00d6nizleme versiyonu.)", 
+                        "image": "https://lh6.googleusercontent.com/6TLbl6GJaZSQb_1Pqjft-PZEPpPI_RMLYxDqq77Pw6I3aT064XD5nyenei9SjWHvsxKHmHKjSQ=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:123", 
+                        "name": "Anime Takvimi Extension", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/anime-takvimi-extension/bmglamglljemblpfegpfaechekakgbhg", 
+                        "version": "0.26"
+                    }
+                ]
+            }, 
+            "snippet": "Forumlarda konunun ilgili oldu\u011fu anime bilgisini ve listenizdeki durumunu \ng\u00f6sterir. (\u00d6nizleme versiyonu.)", 
+            "title": "Anime Takvimi Extension"
+        }, 
+        {
+            "cacheId": "udNSNsgvyYsJ", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/.../gfpgaanechfneiboempkfjghninbibjn?...", 
+            "htmlFormattedUrl": "https://chrome.google.com/.../gfpgaanechfneiboempkfjghninbibjn?...", 
+            "htmlSnippet": "This <b>extension</b> lets you disable facebooks mark as read feature.", 
+            "htmlTitle": "Facebook\u2122 Chat Privacy", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/facebook-chat-privacy/gfpgaanechfneiboempkfjghninbibjn?hl=ar", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "1172", 
+                        "ratingvalue": "4.046075085324232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh4.googleusercontent.com/5ClpxFHbEfwGz4geqdyygBUyB0n7DaS-f-B2zHVg0OpkWravVM6JZIIUMhu6-zNnAiKtN-IL=s128-h128-e365"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "category": "1_communication", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "ar", 
+                        "payment_type": "free", 
+                        "stars2": "true", 
+                        "stars3": "true", 
+                        "stars4": "true", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "112442", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "This extension lets you disable facebooks mark as read feature", 
+                        "og:image": "https://lh4.googleusercontent.com/5ClpxFHbEfwGz4geqdyygBUyB0n7DaS-f-B2zHVg0OpkWravVM6JZIIUMhu6-zNnAiKtN-IL=s128-h128-e365", 
+                        "og:title": "Facebook\u2122 Chat Privacy", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/facebook-chat-privacy/gfpgaanechfneiboempkfjghninbibjn", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "This extension lets you disable facebooks mark as read feature", 
+                        "image": "https://lh4.googleusercontent.com/5ClpxFHbEfwGz4geqdyygBUyB0n7DaS-f-B2zHVg0OpkWravVM6JZIIUMhu6-zNnAiKtN-IL=s128-h128-e365", 
+                        "interactioncount": "UserDownloads:112,442", 
+                        "name": "Facebook\u2122 Chat Privacy", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/facebook-chat-privacy/gfpgaanechfneiboempkfjghninbibjn", 
+                        "version": "0.2.3"
+                    }
+                ]
+            }, 
+            "snippet": "This extension lets you disable facebooks mark as read feature.", 
+            "title": "Facebook\u2122 Chat Privacy"
+        }, 
+        {
+            "cacheId": "fpSjNp6p328J", 
+            "displayLink": "chrome.google.com", 
+            "formattedUrl": "https://chrome.google.com/.../fnogbikbfdhjlcoiagfmkepdgdkopeja", 
+            "htmlFormattedUrl": "https://chrome.google.com/.../fnogbikbfdhjlcoiagfmkepdgdkopeja", 
+            "htmlSnippet": "This <b>extension</b> reminds you regularly of your important goals in life setting a <br>\n<b>...</b> This <b>extension</b> sets a Productivity dashboard tracking your time and <b>...</b>", 
+            "htmlTitle": "TheNextTask NewTab - Chrome Web Store", 
+            "kind": "customsearch#result", 
+            "link": "https://chrome.google.com/webstore/detail/thenexttask-newtab/fnogbikbfdhjlcoiagfmkepdgdkopeja", 
+            "pagemap": {
+                "aggregaterating": [
+                    {
+                        "ratingcount": "0", 
+                        "ratingvalue": "0"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/Il-VHEsh8jcRsTkarNoLEfmnawBsoDi71qeY48v27zZwGBh3ULoK_Zlfjkqhkh8whMqR-P4t=s128-h128-e365"
+                    }
+                ], 
+                "document": [
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "user_count": "0", 
+                        "works_offline": "false"
+                    }, 
+                    {
+                        "autogen": "false", 
+                        "available_on_android": "false", 
+                        "by_google": "false", 
+                        "canonical": "true", 
+                        "category": "7_productivity", 
+                        "container": "CHROME", 
+                        "family_unsafe": "false", 
+                        "item_category": "EXTENSION", 
+                        "kiosk": "false", 
+                        "page_lang_safe": "en", 
+                        "pagerank_devurl": "0", 
+                        "payment_type": "free", 
+                        "stars2": "false", 
+                        "stars3": "false", 
+                        "stars4": "false", 
+                        "stars5": "false", 
+                        "supported_regions": "AE,AR,AT,AU,BE,BG,BR,CA,CH,CL", 
+                        "unpub_user_count": "0", 
+                        "user_count": "0", 
+                        "wilson_star_rating": "1.0", 
+                        "works_offline": "false"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "og:description": "The ultimate Productivity & ToDo list add-on,designed to personalize your browser experience while search the web from your NewTab", 
+                        "og:image": "https://lh3.googleusercontent.com/Il-VHEsh8jcRsTkarNoLEfmnawBsoDi71qeY48v27zZwGBh3ULoK_Zlfjkqhkh8whMqR-P4t=s128-h128-e365", 
+                        "og:title": "TheNextTask NewTab", 
+                        "og:type": "website", 
+                        "og:url": "https://chrome.google.com/webstore/detail/thenexttask-newtab/fnogbikbfdhjlcoiagfmkepdgdkopeja", 
+                        "referrer": "origin", 
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                    }
+                ], 
+                "offer": [
+                    {
+                        "availability": "http://schema.org/InStock", 
+                        "price": "$0", 
+                        "pricecurrency": "USD"
+                    }
+                ], 
+                "webapplication": [
+                    {
+                        "description": "The ultimate Productivity & ToDo list add-on,designed to personalize your browser experience while search the web from your NewTab", 
+                        "image": "https://lh3.googleusercontent.com/Il-VHEsh8jcRsTkarNoLEfmnawBsoDi71qeY48v27zZwGBh3ULoK_Zlfjkqhkh8whMqR-P4t=s128-h128-e365", 
+                        "name": "TheNextTask NewTab", 
+                        "operatingsystems": "Chrome", 
+                        "softwareapplicationcategory": "http://schema.org/OtherApplication", 
+                        "url": "https://chrome.google.com/webstore/detail/thenexttask-newtab/fnogbikbfdhjlcoiagfmkepdgdkopeja", 
+                        "version": "1.0.4.5"
+                    }
+                ]
+            }, 
+            "snippet": "This extension reminds you regularly of your important goals in life setting a \n... This extension sets a Productivity dashboard tracking your time and ...", 
+            "title": "TheNextTask NewTab - Chrome Web Store"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "004717870502135588221:db5tddqamui", 
+                "exactTerms": "extension", 
+                "excludeTerms": "Games Apps Themes", 
+                "filter": "1", 
+                "inputEncoding": "utf8", 
+                "language": "lang_en", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "extension", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - extension", 
+                "totalResults": "398000"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "004717870502135588221:db5tddqamui", 
+                "exactTerms": "extension", 
+                "excludeTerms": "Games Apps Themes", 
+                "filter": "1", 
+                "inputEncoding": "utf8", 
+                "language": "lang_en", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "extension", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - extension", 
+                "totalResults": "398000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.16", 
+        "formattedTotalResults": "398,000", 
+        "searchTime": 0.157911, 
+        "totalResults": "398000"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}
